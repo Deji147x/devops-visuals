@@ -6,5 +6,9 @@
   "day02": {
     "title": "Terraform Across Clouds: Reusable Modules",
     "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/Terraform-Multi-Cloud-Reusable-Modules-Guide-Deji-Ajishe.pdf"
+  },
+  "day03": {
+    "title": "AWS vs Azure vs GCP: Compute, Networking & Identity",
+    "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/AWS-vs-Azure-vs-GCP-Compute-Networking-Identity-Comparison-Deji-Ajishe.pdf"
   }
 }
