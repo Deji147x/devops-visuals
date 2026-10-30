@@ -14,5 +14,9 @@
   "day04": {
     "title": "Terraform State Management Best Practices",
     "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/Terraform-State-Management-Best-Practices-Deji-Ajishe.pdf"
+  },
+  "day05": {
+    "title": "Cloud Landing Zone Design for AWS, Azure & GCP",
+    "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/Cloud-Landing-Zone-Design-AWS-Azure-GCP-Deji-Ajishe.pdf"
   }
 }
