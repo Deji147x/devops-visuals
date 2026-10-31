@@ -18,5 +18,9 @@
   "day05": {
     "title": "Cloud Landing Zone Design for AWS, Azure & GCP",
     "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/Cloud-Landing-Zone-Design-AWS-Azure-GCP-Deji-Ajishe.pdf"
+  },
+  "day06": {
+    "title": "From Commit to Production: 7 Stages of a Reliable CI/CD Pipeline",
+    "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/CI-CD-Pipeline-7-Stages-Commit-to-Production-Deji-Ajishe.pdf"
   }
 }
