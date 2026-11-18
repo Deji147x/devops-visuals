@@ -42,5 +42,9 @@
   "day11": {
     "title": "Azure DevOps and Azure Repos",
     "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/AzureDevopsAndAzureRepos-Deji-Ajishe.pdf"
+  },
+  "day12": {
+    "title": "Container Portability Across AWS, Azure & GCP",
+    "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/Container-Portability-OCI-Images-AWS-Azure-GCP-Deji-Ajishe.pdf"
   }
 }
