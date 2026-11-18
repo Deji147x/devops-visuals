@@ -30,5 +30,9 @@
   "day08": {
     "title": "IAM for DevOps teams",
     "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/IamForDevopsTeams-Deji-Ajishe.pdf"
+  },
+  "day09": {
+    "title": "Jenkins pipeline as code",
+    "url": "https://raw.githubusercontent.com/Deji147x/devops-visuals/main/guides/JenkinsPipelineAsCode-Deji-Ajishe.pdf"
   }
 }
